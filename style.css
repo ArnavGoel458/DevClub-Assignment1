@@ -1,4 +1,3 @@
-
 a{
     color: rgb(5, 5, 5);
     text-decoration:none;
@@ -256,7 +255,7 @@ text-align: center;
 }
 .rectangle1{
     position: absolute;
-width: 1270px;
+width: 100%;
 height: 1024px;
 left: 0px;
 top: 35px;
@@ -265,7 +264,7 @@ background: #4C0027;
 }
 .rectangle6{
     position: absolute;
-    width: 1270px;
+    width: 100%;
     height: 900px;
     left: 0px;
     top: 1700px;
@@ -318,7 +317,7 @@ background: #4C0027;
 .rectangle10{
 position:absolute;
  top:2600px;
- width: 1270px;
+ width: 100%;
 height: 1024px;
 left: 0px;
  background-color: #E8AFCE;
@@ -336,7 +335,7 @@ left: 0px;
     position:absolute;
     top:4100px;
     left:0px;
-    width: 1270px;
+    width: 100%;
 height: 200px;
  background-color:#4C0027 ;
 
